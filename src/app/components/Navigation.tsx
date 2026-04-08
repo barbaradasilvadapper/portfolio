@@ -15,7 +15,7 @@ export function Navigation() {
 
         <div className="flex items-center gap-8">
           <a
-            href="https://github.com"
+            href="https://github.com/barbaradasilvadapper"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors duration-300"
@@ -23,7 +23,7 @@ export function Navigation() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/barbara-dapper"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors duration-300"

@@ -99,10 +99,10 @@ export function Projects() {
       },
       techStack: ['SpriteKit', 'MultipeerConnectivity', 'GamePlayKit', 'CoreMotion'],
       team: [
-        { name: 'Bárbara Dapper', role: 'Developer', linkedin: 'https://www.linkedin.com/in/barbara-dapper' },
-        { name: 'Jean Pierre', role: 'Developer', linkedin: 'https://www.linkedin.com/in/jeanpierrerodrigues/' },
-        { name: 'João Pedro Carvalho', role: 'Developer', linkedin: 'https://www.linkedin.com/in/joão-pedro-teixeira-de-carvalho-6631b6224/' },
-        { name: 'Maria Maidana', role: 'Developer', linkedin: 'https://www.linkedin.com/in/mariaeduardasantellano/' },
+        { name: 'Bárbara Dapper', role: 'iOS Developer', linkedin: 'https://www.linkedin.com/in/barbara-dapper' },
+        { name: 'Jean Pierre', role: 'iOS Developer', linkedin: 'https://www.linkedin.com/in/jeanpierrerodrigues/' },
+        { name: 'João Pedro Carvalho', role: 'iOS Developer', linkedin: 'https://www.linkedin.com/in/joão-pedro-teixeira-de-carvalho-6631b6224/' },
+        { name: 'Maria Maidana', role: 'iOS Developer', linkedin: 'https://www.linkedin.com/in/mariaeduardasantellano/' },
         { name: 'Vítor Martins', role: 'UI/UX Designer', linkedin: 'https://www.linkedin.com/in/vítor-martins-940576207/' }
       ],
       screenshots: [
